@@ -22,3 +22,4 @@ Implement social distancing detector and mask detector using OpenCV(Python), Dee
 ## Team Members:
 1. Devraj Chatribin
 2. Sarthak Jain
+3. Anubhav
