@@ -8,7 +8,7 @@ Implement social distancing detector and mask detector using OpenCV(Python), Dee
 
 
 **Main Features**
-* Social distancing detector
+* Social distancing detector:
   - Accept feed from live cam.
   - Safe distance should be entered by the user (GUI).
   - Counting the number of people in real-time.
@@ -22,4 +22,5 @@ Implement social distancing detector and mask detector using OpenCV(Python), Dee
 ## Team Members:
 1. Devraj Chatribin
 2. Sarthak Jain
-3. Anubhav
+3. Anubhav Gupta
+4. Pulkit Singh
